@@ -1,0 +1,217 @@
+id_envio,id_pedido,direccion,fecha_envio,estado_envio
+ENV8000,PED7100,"Boulevard Constitución, San Salvador",2024-06-02,en ruta
+ENV8001,PED7222," Calle El Mirador, La Libertad ",2024-05-07,entregado
+ENV8002,PED7191,"Calle El Mirador, Sonsonate",2024-05-30,devuelto
+ENV8003,PED7186,"Av. Roosevelt, San Miguel",2024-07-03,en ruta
+ENV8004,PED7043,"Calle Principal, San Salvador",2024-01-09,preparando
+ENV8005,PED7008,"Pje. Las Flores, Sonsonate",2024-03-03,devuelto
+ENV8006,PED7169,"Av. Roosevelt, San Salvador",2024-04-04,devuelto
+ENV8007,PED7153,"Calle Principal, Usulután",2024-09-07,devuelto
+ENV8008,PED7207,"Calle Principal, San Salvador",2025-04-23,en ruta
+ENV8009,PED7103,"Boulevard Constitución, Santa Ana",2025-05-07,entregado
+ENV8010,PED7158,"Pje. Las Flores, Usulután",2025-01-04,entregado
+ENV8011,PED7090,"Col. Escalón, Sonsonate",2024-07-07,en ruta
+ENV8012,PED7127,"Col. Escalón, La Libertad",2025-03-09,entregado
+ENV8013,PED7052,"Av. Roosevelt, San Salvador",2025-05-15,entregado
+ENV8014,PED7052,"Calle El Mirador, San Salvador",2024-04-08,preparando
+ENV8015,PED7149,"Pje. Las Flores, Santa Ana",2024-01-28,entregado
+ENV8016,PED7062,"Av. Roosevelt, La Libertad",2024-09-22,en ruta
+ENV8017,PED7073,"Calle El Mirador, Santa Ana",2024-02-30,en ruta
+ENV8018,PED7214,"Calle Principal, San Salvador",2025-01-29,en ruta
+ENV8019,PED7196,"Boulevard Constitución, Sonsonate",2024-12-19,preparando
+ENV8020,PED7048,"Av. Roosevelt, La Libertad",2025-06-02,devuelto
+ENV8021,PED7100,"Col. Escalón, Sonsonate",2024-01-22,entregado
+ENV8022,PED7137,"Col. Escalón, La Libertad",2024-07-07,en ruta
+ENV8023,PED7204,"Boulevard Constitución, San Salvador",2024-06-28,preparando
+ENV8024,PED7184,"Calle El Mirador, La Libertad",2024-07-25,entregado
+ENV8025,PED7181,"Col. Escalón, Usulután",2024-10-28, devuelto 
+ENV8026,PED7096,"Calle El Mirador, San Salvador",2024-07-03,preparando
+ENV8027,PED7228,"Calle Principal, La Libertad",2025-05-28,en ruta
+ENV8028,PED7197,"Boulevard Constitución, Sonsonate",2024-01-22,en ruta 
+ENV8029,PED7043,"Calle El Mirador, La Libertad",2025-02-18,devuelto
+ENV8030,PED7226,"Boulevard Constitución, San Miguel",2024-05-24,entregado
+ENV8031,PED7048,"Calle El Mirador, San Miguel",2024-11-19,preparando
+ENV8032,PED7097," Av. Roosevelt, Usulután ",2025-05-25,preparando
+ENV8033,PED7147,"Av. Roosevelt, La Libertad",2025-04-17,entregado
+ENV8034,PED7001,"Pje. Las Flores, San Salvador",2024-10-18,en ruta
+ENV8035,PED7151,"Col. Escalón, Sonsonate",2024-05-27,entregado
+ENV8036,PED7081,"Boulevard Constitución, Sonsonate",2024-04-26,entregado
+ENV8037,PED7009,"Boulevard Constitución, San Miguel",2024-08-21, entregado 
+ENV8038,PED7159,"Pje. Las Flores, La Libertad",2025-04-30,en ruta
+ENV8039,PED7075,"Calle Principal, San Salvador",2024-12-01,en ruta
+ENV8040,PED7126,"Calle Principal, San Miguel",2024-03-20,preparando
+ENV8041,PED7065,"Av. Roosevelt, Santa Ana",2024-07-30,entregado
+ENV8042,PED7004,"Col. Escalón, La Libertad",2025-01-17,entregado
+ENV8043,PED7095,"Pje. Las Flores, Usulután",2024-01-26,en ruta
+ENV8044,PED7090,"Col. Escalón, Usulután",2024-07-29,en ruta
+ENV8045,PED7205,"Col. Escalón, Sonsonate",,entregado
+ENV8046,PED7074,"Boulevard Constitución, San Miguel",2025-05-28,devuelto
+ENV8047,PED7091,"Boulevard Constitución, Sonsonate",2025-02-24,en ruta
+ENV8048,PED7187,"Col. Escalón, Santa Ana",2024-02-08,devuelto
+ENV8049,PED7095,"Calle Principal, La Libertad",2025-05-06,entregado
+ENV8050,PED7210,"Boulevard Constitución, Usulután",2025-04-11,entregado
+ENV8051,PED7140,"Col. Escalón, San Salvador",2024-08-17, devuelto 
+ENV8052,PED7208,"Boulevard Constitución, San Miguel",2024-08-01,devuelto
+ENV8053,PED7092,"Calle El Mirador, Santa Ana",2025-01-27,entregado
+ENV8054,PED7058,"Av. Roosevelt, Santa Ana",2024-05-05,devuelto
+ENV8055,PED7173,"Pje. Las Flores, Sonsonate",2025/01/22,entregado
+ENV8056,,"Boulevard Constitución, Sonsonate",2024-12-22,devuelto
+ENV8057,PED7024,"Pje. Las Flores, La Libertad",2024-04-18,entregado
+ENV8058,PED7183,"Pje. Las Flores, San Salvador",,en ruta
+ENV8059,PED7080,"Col. Escalón, Santa Ana",2024-07-23,entregado
+ENV8060,PED7109,"Col. Escalón, San Miguel",2024-02-17,entregado
+ENV8061,PED7205,"Av. Roosevelt, San Salvador",,en ruta
+ENV8062,PED7147,"Col. Escalón, San Salvador",2024-07-27,entregado 
+ENV8063,PED7036,"Boulevard Constitución, San Salvador",2024-06-28,en ruta
+ENV8064,PED7030,"Col. Escalón, Sonsonate",2024-09-23,en ruta
+ENV8065,PED7005,"Calle El Mirador, San Miguel",2025-02-28,devuelto
+ENV8066,PED7203,"Calle El Mirador, San Miguel",2024-10-22,entregado
+ENV8067,PED7089,"Pje. Las Flores, Santa Ana",,en ruta
+ENV8068,PED7120,"Pje. Las Flores, San Salvador",2024-04-17,preparando
+ENV8069,PED7090,"Pje. Las Flores, Santa Ana",2024-01-08,entregado
+ENV8070,PED7014,"Calle Principal, San Salvador",2024-11-17,entregado
+ENV8071,PED7202,"Boulevard Constitución, San Miguel",2024-09-25,preparando
+ENV8072,PED7089,"Calle Principal, Santa Ana",2025-03-23,en ruta
+ENV8073,PED7070,"Calle Principal, Sonsonate",2024-03-26,entregado
+ENV8074,PED7165,"Col. Escalón, La Libertad",,preparando
+ENV8075,PED7215,"Boulevard Constitución, Santa Ana",2024-12-02,entregado
+ENV8076,PED7090," Calle Principal, San Salvador ",2025-02-07,devuelto
+ENV8077,PED7214,"Boulevard Constitución, San Miguel",2025-02-22,entregado
+ENV8078,PED7130,"Calle El Mirador, La Libertad",2024-12-24,en ruta
+ENV8079,PED7046,"Boulevard Constitución, Sonsonate",2024-11-15,en ruta 
+ENV8080,PED7127,"Pje. Las Flores, San Salvador",2025-04-25,entregado
+ENV8081,PED7017,"Av. Roosevelt, San Salvador",2025-05-23,preparando
+ENV8082,PED7139,"Calle El Mirador, Sonsonate",2025-02-03,preparando
+ENV8083,PED7176,"Col. Escalón, San Salvador",31/15/2024,preparando
+ENV8084,PED7131,"Calle El Mirador, Santa Ana",,en ruta
+ENV8085,PED7017,"Col. Escalón, Usulután",2024-04-06,entregado
+ENV8086,PED7020,"Pje. Las Flores, Sonsonate",2025-03-20,devuelto
+ENV8087,PED7086,"Av. Roosevelt, San Miguel",2024-04-01,devuelto
+ENV8088,PED7206,"Col. Escalón, San Salvador",2025-01-08,devuelto
+ENV8089,PED7086,"Boulevard Constitución, San Salvador",2024-08-01,en ruta
+ENV8090,PED7216,"Av. Roosevelt, Usulután",2024-02-27,devuelto
+ENV8091,PED7013,"Calle Principal, Santa Ana",2024-01-08,devuelto
+ENV8092,PED7052,"Calle El Mirador, San Miguel",2025-02-22,preparando
+ENV8093,PED7066,"Pje. Las Flores, Sonsonate",2024-06-28,preparando
+ENV8094,PED7150,"Boulevard Constitución, Usulután",2024-04-15,devuelto
+ENV8095,PED7142,"Boulevard Constitución, San Miguel",2024-08-17,preparando
+ENV8096,PED7036,"Calle Principal, San Miguel",2024-11-15,entregado
+ENV8097,PED7197,"Col. Escalón, Sonsonate",2025-01-11,entregado
+ENV8098,PED7166,"Col. Escalón, San Miguel",2024-10-01,preparando
+ENV8099,PED7116,"Calle Principal, San Salvador",2024-06-17,preparando
+ENV8100,PED7188,"Av. Roosevelt, La Libertad",2024-11-13,entregado
+ENV8101,PED7135,"Boulevard Constitución, San Salvador",2024-06-23,en ruta
+ENV8102,PED7202,"Calle El Mirador, Usulután",2025-05-05,devuelto
+ENV8103,PED7214,"Boulevard Constitución, La Libertad",2024-02-12,preparando
+ENV8104,PED7144,"Calle El Mirador, San Miguel",2024-13-01,en ruta
+ENV8105,PED7027,"Boulevard Constitución, La Libertad",2024-10-23,devuelto
+ENV8106,PED7062,"Calle El Mirador, Santa Ana",2024-10-19,preparando
+ENV8107,PED7086,"Calle El Mirador, Sonsonate",2025-02-04,preparando
+ENV8108,PED7144,"Boulevard Constitución, San Miguel",2024-02-02,en ruta
+ENV8109,,"Calle El Mirador, La Libertad",2024-03-08,devuelto
+ENV8110,PED7201,"Col. Escalón, Sonsonate",2024-03-04,preparando
+ENV8111,PED7145,"Boulevard Constitución, Sonsonate",2025/99/10,devuelto
+ENV8112,PED7186," Calle Principal, Usulután ",2024-03-30,devuelto
+ENV8113,PED7051,"Calle Principal, San Miguel",2024-09-24,devuelto
+ENV8114,PED7214,"Boulevard Constitución, San Miguel",,en ruta
+ENV8115,PED7091,"Pje. Las Flores, Sonsonate",2024-08-12,devuelto
+ENV8116,PED7112,"Calle El Mirador, San Salvador",2024-02-16,entregado
+ENV8117,,"Pje. Las Flores, San Miguel",2025-06-06,preparando
+ENV8118,PED7107,"Pje. Las Flores, San Salvador",2025-04-17,devuelto
+ENV8119,PED7203," Calle El Mirador, La Libertad ",2024-02-17,preparando
+ENV8120,PED7193,"Av. Roosevelt, Santa Ana",2024-05-12,entregado
+ENV8121,PED7052,"Pje. Las Flores, San Salvador",2024-10-19,entregado
+ENV8122,PED7166,"Av. Roosevelt, Santa Ana",2024-09-30,entregado
+ENV8123,PED7120,"Calle El Mirador, Santa Ana",2024-12-11,entregado
+ENV8124,,"Pje. Las Flores, La Libertad",2025-03-03,preparando
+ENV8125,PED7136,"Calle El Mirador, San Salvador",2024-10-07,devuelto
+ENV8126,,"Pje. Las Flores, Santa Ana ",2024-07-05,en ruta
+ENV8127,PED7024,"Calle Principal, Sonsonate",2024-07-15,devuelto
+ENV8128,PED7072,"Av. Roosevelt, San Salvador ",2024-08-10,devuelto
+ENV8129,PED7023,"Calle Principal, Sonsonate",2025-04-16,preparando
+ENV8130,PED7142,"Calle El Mirador, Santa Ana",2025-02-26,devuelto
+ENV8131,PED7022,"Pje. Las Flores, San Salvador",2024-09-10,entregado
+ENV8132,PED7145," Col. Escalón, Usulután ",2024-01-22,preparando
+ENV8133,PED7093,"Calle Principal, Santa Ana",2024-06-24,en ruta
+ENV8134,PED7008,"Calle Principal, Santa Ana",2024-10-05,preparando
+ENV8135,PED7118,"Col. Escalón, Santa Ana",2025-03-03,preparando
+ENV8136,PED7121,"Av. Roosevelt, San Salvador",2025-05-28, en ruta 
+ENV8137,PED7091,"Col. Escalón, Usulután",2024-02-25,preparando
+ENV8138,PED7089,"Boulevard Constitución, Santa Ana",2024-12-14,entregado
+ENV8139,PED7138,"Pje. Las Flores, Usulután",2024-10-20,devuelto
+ENV8140,PED7174,"Av. Roosevelt, Usulután",2024-02-04,preparando
+ENV8141,PED7218,"Calle Principal, La Libertad",2024-07-23,en ruta
+ENV8142,PED7011,"Col. Escalón, San Miguel",2025-05-09,devuelto
+ENV8143,PED7028,"Boulevard Constitución, Sonsonate",2024-05-19,entregado
+ENV8144,PED7181,"Av. Roosevelt, San Salvador",2025-01-11,devuelto
+ENV8145,PED7166,"Pje. Las Flores, San Salvador",2025-01-01,entregado
+ENV8146,PED7009,"Pje. Las Flores, Sonsonate",2025-01-16,entregado
+ENV8147,PED7229,"Boulevard Constitución, Sonsonate",2024-11-29,entregado
+ENV8148,,"Calle Principal, Usulután",2025-01-09,preparando
+ENV8149,PED7212,"Col. Escalón, San Miguel",2024-02-19,entregado
+ENV8150,PED7005,"Av. Roosevelt, La Libertad",2024-04-30,devuelto
+ENV8151,PED7212,"Pje. Las Flores, Sonsonate",2024-07-03,preparando
+ENV8152,PED7176,"Calle Principal, San Miguel",2024/12/02,en ruta
+ENV8153,PED7096,"Pje. Las Flores, La Libertad",,preparando
+ENV8154,PED7010,"Pje. Las Flores, San Salvador",2024-07-16,entregado
+ENV8155,PED7164,"Boulevard Constitución, San Miguel",2024-12-10,en ruta
+ENV8156,PED7150,"Calle El Mirador, La Libertad",2024-09-14,entregado
+ENV8157,PED7221,"Boulevard Constitución, Sonsonate",2025-04-30,en ruta
+ENV8158,PED7082,"Boulevard Constitución, Santa Ana",2024-10-21,preparando
+ENV8159,PED7068,"Av. Roosevelt, La Libertad",2024-08-20,devuelto
+ENV8160,PED7113,"Pje. Las Flores, San Salvador",2024-11-29,preparando
+ENV8161,PED7014,"Calle El Mirador, La Libertad",2025-05-21,devuelto
+ENV8162,PED7217,"Av. Roosevelt, La Libertad",2024-12-24,entregado
+ENV8163,PED7098,"Pje. Las Flores, Usulután",,entregado
+ENV8164,PED7191,"Col. Escalón, Usulután ",2025-01-01,preparando
+ENV8165,PED7057,"Calle Principal, Santa Ana",31/15/2024,entregado
+ENV8166,PED7172,"Col. Escalón, Usulután",2025-05-17,devuelto
+ENV8167,PED7225,"Col. Escalón, Sonsonate",2024-02-29,entregado
+ENV8168,PED7143,"Pje. Las Flores, San Miguel",2024-04-15,devuelto
+ENV8169,PED7053,"Pje. Las Flores, Sonsonate",2025-01-25,en ruta
+ENV8170,PED7207,"Col. Escalón, Sonsonate",2024/05/25,entregado
+ENV8171,PED7110,"Boulevard Constitución, San Miguel",2024-10-27,devuelto
+ENV8172,PED7162,"Boulevard Constitución, Usulután",2025-05-22,preparando
+ENV8173,PED7013,"Calle Principal, San Miguel",2024-03-13,entregado
+ENV8174,PED7053,"Calle Principal, San Miguel",2024-10-09,devuelto
+ENV8175,PED7091,"Calle Principal, San Miguel",2024-10-22,en ruta
+ENV8176,PED7225,"Calle Principal, San Miguel",2024-05-02,en ruta 
+ENV8177,PED7171,"Pje. Las Flores, La Libertad",2024-05-09,entregado
+ENV8178,PED7208,"Calle El Mirador, Sonsonate",2024-07-02,devuelto
+ENV8179,PED7071,"Calle El Mirador, Sonsonate",2025-05-22,en ruta
+ENV8180,PED7089,"Calle Principal, San Salvador",2025-01-02,preparando
+ENV8181,PED7170,"Pje. Las Flores, Santa Ana",2024-05-29,preparando
+ENV8182,PED7022,"Pje. Las Flores, San Miguel ",2025-01-06,devuelto
+ENV8183,PED7071,"Av. Roosevelt, Sonsonate",2024-03-13,preparando
+ENV8184,PED7000,"Col. Escalón, Usulután",2024-08-09,en ruta
+ENV8185,PED7210,"Boulevard Constitución, San Salvador",2025-01-01,devuelto
+ENV8186,PED7067,"Boulevard Constitución, San Miguel",2024-03-22,en ruta
+ENV8187,PED7051,"Calle Principal, San Salvador",2025-03-25,entregado
+ENV8188,PED7046,"Boulevard Constitución, Sonsonate",2024-04-25,entregado
+ENV8189,,"Calle El Mirador, Sonsonate",,entregado
+ENV8190,PED7076,"Boulevard Constitución, San Miguel",2024-02-27,devuelto
+ENV8191,PED9999,"Av. Roosevelt, La Libertad",2025-03-28,devuelto
+ENV8192,PED7196,"Boulevard Constitución, San Salvador",2024-06-29,devuelto
+ENV8193,PED7171,"Calle Principal, San Miguel",2024-09-03,entregado
+ENV8194,,"Calle El Mirador, La Libertad",2024-03-04,entregado
+ENV8195,PED7145,"Pje. Las Flores, San Salvador",2024-08-08,entregado
+ENV8196,PED7148,"Av. Roosevelt, Usulután",2024-06-14,devuelto
+ENV8197,PED9999,"Calle Principal, La Libertad",2024-07-04,en ruta
+ENV8198,PED7020,"Pje. Las Flores, San Salvador",2024-02-19,devuelto
+ENV8199,PED7026,"Calle Principal, Sonsonate",2024-01-07,devuelto
+ENV8200,PED7159,"Boulevard Constitución, Santa Ana",2024-06-12,devuelto
+ENV8201,PED7120,"Pje. Las Flores, Santa Ana",2024-05-03,en ruta
+ENV8202,PED7122,"Calle Principal, Santa Ana",2024-09-10,devuelto
+ENV8203,PED7120,"Boulevard Constitución, La Libertad",2024-12-14,devuelto
+ENV8204,PED7147,"Av. Roosevelt, Usulután",2024-02-09,entregado
+ENV8205,PED7173,"Boulevard Constitución, San Salvador",2024-08-30,entregado
+ENV8206,PED7192,"Av. Roosevelt, La Libertad",2025-05-06,preparando
+ENV8207,PED7019,"Calle Principal, San Miguel",2025-01-27,entregado
+ENV8208,PED7157,"Col. Escalón, Usulután",2024-12-21,preparando
+ENV8209,PED7195,"Av. Roosevelt, Sonsonate",2024-07-09,en ruta
+ENV8019,PED7196,"Boulevard Constitución, Sonsonate",2024-12-19,preparando
+ENV8194,,"Calle El Mirador, La Libertad",2024-03-04,entregado
+ENV8030,PED7226,"Boulevard Constitución, San Miguel",2024-05-24,entregado
+ENV8166,PED7172,"Col. Escalón, Usulután",2025-05-17,devuelto
+ENV8115,PED7091,"Pje. Las Flores, Sonsonate",2024-08-12,devuelto
+ENV8104,PED7144,"Calle El Mirador, San Miguel",2024-13-01,en ruta
