@@ -1,0 +1,142 @@
+id_cliente,cliente,correo,telefono,id_pedido,fecha_pedido,monto,estado,id_envio,direccion,fecha_envio,estado_envio
+CL1138,Pedro Vásquez,cliente13813@correo.sv,72784362,PED7000,2024-11-28,1984.03,Enviado,ENV8184,"Col. Escalón, Usulután",2024-08-09,En Ruta
+CL1068,Elena Hernández,cliente6866@correo.sv,79903500,PED7004,2024-12-20,1182.84,Enviado,ENV8042,"Col. Escalón, La Libertad",2025-01-17,Entregado
+CL1030,Lucía Reyes,cliente309@correo.sv,76575720,PED7005,2024-04-02,2154.6,Preparacion,ENV8065,"Calle El Mirador, San Miguel",2025-02-28,Devuelto
+CL1030,Lucía Reyes,cliente309@correo.sv,76575720,PED7005,2024-04-02,2154.6,Preparacion,ENV8150,"Av. Roosevelt, La Libertad",2024-04-30,Devuelto
+CL1002,Valeria Martínez,cliente25@outlook.com,76605966,PED7008,2024-08-04,404.61,Preparacion,ENV8005,"Pje. Las Flores, Sonsonate",2024-03-03,Devuelto
+CL1002,Valeria Martínez,cliente25@outlook.com,76605966,PED7008,2024-08-04,404.61,Preparacion,ENV8134,"Calle Principal, Santa Ana",2024-10-05,Preparando
+CL1059,Carmen Guerrero,cliente5961@correo.sv,71383408,PED7010,2024-06-16,1802.57,Cancelado,ENV8154,"Pje. Las Flores, San Salvador",2024-07-16,Entregado
+CL1139,Paola Santos,cliente13982@gmail.com,78348820,PED7014,2025-01-05,1804.53,Preparacion,ENV8070,"Calle Principal, San Salvador",2024-11-17,Entregado
+CL1139,Paola Santos,cliente13982@gmail.com,78348820,PED7014,2025-01-05,1804.53,Preparacion,ENV8161,"Calle El Mirador, La Libertad",2025-05-21,Devuelto
+CL1139,Paola Santos,cliente13982@gmail.com,78348820,PED7014,2025-01-05,1804.53,Preparacion,ENV8070,"Calle Principal, San Salvador",2024-11-17,Entregado
+CL1139,Paola Santos,cliente13982@gmail.com,78348820,PED7014,2025-01-05,1804.53,Preparacion,ENV8161,"Calle El Mirador, La Libertad",2025-05-21,Devuelto
+CL1046,Lucía Romero,cliente4690@empresa.com,78965446,PED7022,2024-11-23,1273.98,Cancelado,ENV8131,"Pje. Las Flores, San Salvador",2024-09-10,Entregado
+CL1046,Lucía Romero,cliente4690@empresa.com,78965446,PED7022,2024-11-23,1273.98,Cancelado,ENV8182,"Pje. Las Flores, San Miguel",2025-01-06,Devuelto
+CL1097,Elena Rivera,cliente9728@gmail.com,74843131,PED7024,2025-02-01,1430.08,Entregado,ENV8057,"Pje. Las Flores, La Libertad",2024-04-18,Entregado
+CL1097,Elena Rivera,cliente9728@gmail.com,74843131,PED7024,2025-02-01,1430.08,Entregado,ENV8127,"Calle Principal, Sonsonate",2024-07-15,Devuelto
+CL1090,Daniela Ramírez,cliente9079@correo.sv,79075552,PED7026,2025-02-04,2320.08,Cancelado,ENV8199,"Calle Principal, Sonsonate",2024-01-07,Devuelto
+CL1074,Andrés Gómez,cliente7495@gmail.com,71944270,PED7027,2025-01-01,1501.24,Entregado,ENV8105,"Boulevard Constitución, La Libertad",2024-10-23,Devuelto
+CL1058,Carmen Romero,cliente5862@empresa.com,74983480,PED7028,2024-02-26,2437.36,Preparacion,ENV8143,"Boulevard Constitución, Sonsonate",2024-05-19,Entregado
+CL1016,Marta Santos,cliente1652@correo.sv,75486191,PED7030,2024-09-11,1688.96,Enviado,ENV8064,"Col. Escalón, Sonsonate",2024-09-23,En Ruta
+CL1033,Pedro Rivera,cliente3358@gmail.com,73409894,PED7036,2024-07-24,58.24,Cancelado,ENV8063,"Boulevard Constitución, San Salvador",2024-06-28,En Ruta
+CL1033,Pedro Rivera,cliente3358@gmail.com,73409894,PED7036,2024-07-24,58.24,Cancelado,ENV8096,"Calle Principal, San Miguel",2024-11-15,Entregado
+CL1129,Ricardo Hernández,cliente12935@outlook.com,77561387,PED7046,2025-03-26,240.8,Entregado,ENV8079,"Boulevard Constitución, Sonsonate",2024-11-15,En Ruta
+CL1129,Ricardo Hernández,cliente12935@outlook.com,77561387,PED7046,2025-03-26,240.8,Entregado,ENV8188,"Boulevard Constitución, Sonsonate",2024-04-25,Entregado
+CL1099,Jorge Morales,cliente9956@outlook.com,79683806,PED7051,2024-05-06,2134.41,Entregado,ENV8113,"Calle Principal, San Miguel",2024-09-24,Devuelto
+CL1099,Jorge Morales,cliente9956@outlook.com,79683806,PED7051,2024-05-06,2134.41,Entregado,ENV8187,"Calle Principal, San Salvador",2025-03-25,Entregado
+CL1026,Luis Castro,cliente2633@gmail.com,73526332,PED7052,2024-08-14,1183.55,Enviado,ENV8013,"Av. Roosevelt, San Salvador",2025-05-15,Entregado
+CL1026,Luis Castro,cliente2633@gmail.com,73526332,PED7052,2024-08-14,1183.55,Enviado,ENV8014,"Calle El Mirador, San Salvador",2024-04-08,Preparando
+CL1026,Luis Castro,cliente2633@gmail.com,73526332,PED7052,2024-08-14,1183.55,Enviado,ENV8092,"Calle El Mirador, San Miguel",2025-02-22,Preparando
+CL1026,Luis Castro,cliente2633@gmail.com,73526332,PED7052,2024-08-14,1183.55,Enviado,ENV8121,"Pje. Las Flores, San Salvador",2024-10-19,Entregado
+CL1056,Ana Ramírez,cliente5640@outlook.com,78619124,PED7053,2024-01-12,1788.71,Preparacion,ENV8169,"Pje. Las Flores, Sonsonate",2025-01-25,En Ruta
+CL1056,Ana Ramírez,cliente5640@outlook.com,78619124,PED7053,2024-01-12,1788.71,Preparacion,ENV8174,"Calle Principal, San Miguel",2024-10-09,Devuelto
+CL1056,Ana Ramírez,cliente5640@outlook.com,78619124,PED7058,2024-09-01,917.12,Preparacion,ENV8054,"Av. Roosevelt, Santa Ana",2024-05-05,Devuelto
+CL1118,Andrés Ramírez,cliente11830@correo.sv,79663416,PED7062,2024-12-20,1720.86,Cancelado,ENV8016,"Av. Roosevelt, La Libertad",2024-09-22,En Ruta
+CL1118,Andrés Ramírez,cliente11830@correo.sv,79663416,PED7062,2024-12-20,1720.86,Cancelado,ENV8106,"Calle El Mirador, Santa Ana",2024-10-19,Preparando
+CL1121,José Rivas,cliente12181@outlook.com,71585714,PED7065,2025-05-03,1246.56,Pendiente,ENV8041,"Av. Roosevelt, Santa Ana",2024-07-30,Entregado
+CL1112,Camila Morales,cliente11273@outlook.com,79330666,PED7066,2024-09-11,1799.63,Cancelado,ENV8093,"Pje. Las Flores, Sonsonate",2024-06-28,Preparando
+CL1065,Jorge Flores,cliente6549@outlook.com,74058523,PED7067,2025-01-14,2443.26,Cancelado,ENV8186,"Boulevard Constitución, San Miguel",2024-03-22,En Ruta
+CL1065,Jorge Flores,cliente6549@outlook.com,74058523,PED7067,2025-01-14,2443.26,Cancelado,ENV8186,"Boulevard Constitución, San Miguel",2024-03-22,En Ruta
+CL1116,José Vásquez,cliente11687@outlook.com,77581403,PED7068,2024-09-02,749.06,Pendiente,ENV8159,"Av. Roosevelt, La Libertad",2024-08-20,Devuelto
+CL1002,Valeria Martínez,cliente25@outlook.com,76605966,PED7070,2024-12-09,185.31,Cancelado,ENV8073,"Calle Principal, Sonsonate",2024-03-26,Entregado
+CL1124,José Guerrero,cliente12430@outlook.com,76021634,PED7071,2024-11-14,530.66,Cancelado,ENV8179,"Calle El Mirador, Sonsonate",2025-05-22,En Ruta
+CL1124,José Guerrero,cliente12430@outlook.com,76021634,PED7071,2024-11-14,530.66,Cancelado,ENV8183,"Av. Roosevelt, Sonsonate",2024-03-13,Preparando
+CL1052,Luis Santos,cliente5220@outlook.com,76374111,PED7076,2024-08-24,60.35,Cancelado,ENV8190,"Boulevard Constitución, San Miguel",2024-02-27,Devuelto
+CL1125,Andrés López,cliente12580@correo.sv,75691576,PED7081,2025-03-09,1825.91,Cancelado,ENV8036,"Boulevard Constitución, Sonsonate",2024-04-26,Entregado
+CL1026,Luis Castro,cliente2633@gmail.com,73526332,PED7082,2025-03-21,78.51,Enviado,ENV8158,"Boulevard Constitución, Santa Ana",2024-10-21,Preparando
+CL1127,Lucía Mendoza,cliente12735@empresa.com,75813994,PED7089,2024-10-26,495.41,Pendiente,ENV8072,"Calle Principal, Santa Ana",2025-03-23,En Ruta
+CL1127,Lucía Mendoza,cliente12735@empresa.com,75813994,PED7089,2024-10-26,495.41,Pendiente,ENV8138,"Boulevard Constitución, Santa Ana",2024-12-14,Entregado
+CL1127,Lucía Mendoza,cliente12735@empresa.com,75813994,PED7089,2024-10-26,495.41,Pendiente,ENV8180,"Calle Principal, San Salvador",2025-01-02,Preparando
+CL1067,Valeria Santos,cliente6721@correo.sv,75059296,PED7091,2024-04-28,1271.17,Pendiente,ENV8047,"Boulevard Constitución, Sonsonate",2025-02-24,En Ruta
+CL1067,Valeria Santos,cliente6721@correo.sv,75059296,PED7091,2024-04-28,1271.17,Pendiente,ENV8115,"Pje. Las Flores, Sonsonate",2024-08-12,Devuelto
+CL1067,Valeria Santos,cliente6721@correo.sv,75059296,PED7091,2024-04-28,1271.17,Pendiente,ENV8137,"Col. Escalón, Usulután",2024-02-25,Preparando
+CL1067,Valeria Santos,cliente6721@correo.sv,75059296,PED7091,2024-04-28,1271.17,Pendiente,ENV8175,"Calle Principal, San Miguel",2024-10-22,En Ruta
+CL1108,Diego Ramírez,cliente10895@correo.sv,72214715,PED7092,2025-02-24,2414.1,Cancelado,ENV8053,"Calle El Mirador, Santa Ana",2025-01-27,Entregado
+CL1119,Elena Martínez,cliente11996@gmail.com,74582467,PED7093,2024-10-11,1650.35,Preparacion,ENV8133,"Calle Principal, Santa Ana",2024-06-24,En Ruta
+CL1002,Valeria Martínez,cliente25@outlook.com,76605966,PED7095,2024-05-07,585.37,Cancelado,ENV8043,"Pje. Las Flores, Usulután",2024-01-26,En Ruta
+CL1002,Valeria Martínez,cliente25@outlook.com,76605966,PED7095,2024-05-07,585.37,Cancelado,ENV8049,"Calle Principal, La Libertad",2025-05-06,Entregado
+CL1138,Pedro Vásquez,cliente13813@correo.sv,72784362,PED7096,2024-04-24,1800.97,Preparacion,ENV8026,"Calle El Mirador, San Salvador",2024-07-03,Preparando
+CL1003,Daniela Rivera,cliente317@correo.sv,73134898,PED7103,2025-01-27,1228.46,Enviado,ENV8009,"Boulevard Constitución, Santa Ana",2025-05-07,Entregado
+CL1089,Ana Pérez,cliente8999@outlook.com,78671833,PED7107,2024-05-03,255.68,Preparacion,ENV8118,"Pje. Las Flores, San Salvador",2025-04-17,Devuelto
+CL1093,Fernando Vásquez,cliente9380@outlook.com,75012614,PED7109,2024-01-03,1871.44,Preparacion,ENV8060,"Col. Escalón, San Miguel",2024-02-17,Entregado
+CL1091,Andrés Mejía,cliente914@outlook.com,71675779,PED7110,2024-12-14,2147.97,Enviado,ENV8171,"Boulevard Constitución, San Miguel",2024-10-27,Devuelto
+CL1091,Andrés Mejía,cliente914@outlook.com,71675779,PED7110,2024-12-14,2147.97,Enviado,ENV8171,"Boulevard Constitución, San Miguel",2024-10-27,Devuelto
+CL1009,Daniela Morales,cliente987@gmail.com,79050212,PED7113,2025-04-14,1170.57,Cancelado,ENV8160,"Pje. Las Flores, San Salvador",2024-11-29,Preparando
+CL1107,Ricardo Pérez,cliente10775@empresa.com,72106131,PED7118,2024-05-02,2161.68,Entregado,ENV8135,"Col. Escalón, Santa Ana",2025-03-03,Preparando
+CL1085,Lucía Rivera,cliente8579@outlook.com,77147792,PED7120,2025-04-14,1888.54,Enviado,ENV8068,"Pje. Las Flores, San Salvador",2024-04-17,Preparando
+CL1085,Lucía Rivera,cliente8579@outlook.com,77147792,PED7120,2025-04-14,1888.54,Enviado,ENV8123,"Calle El Mirador, Santa Ana",2024-12-11,Entregado
+CL1085,Lucía Rivera,cliente8579@outlook.com,77147792,PED7120,2025-04-14,1888.54,Enviado,ENV8201,"Pje. Las Flores, Santa Ana",2024-05-03,En Ruta
+CL1085,Lucía Rivera,cliente8579@outlook.com,77147792,PED7120,2025-04-14,1888.54,Enviado,ENV8203,"Boulevard Constitución, La Libertad",2024-12-14,Devuelto
+CL1135,Fernando López,cliente13524@correo.sv,77243091,PED7122,2024-01-08,1779.47,Enviado,ENV8202,"Calle Principal, Santa Ana",2024-09-10,Devuelto
+CL1139,Paola Santos,cliente13982@gmail.com,78348820,PED7126,2025-01-13,104.98,Cancelado,ENV8040,"Calle Principal, San Miguel",2024-03-20,Preparando
+CL1139,Paola Santos,cliente13982@gmail.com,78348820,PED7126,2025-01-13,104.98,Cancelado,ENV8040,"Calle Principal, San Miguel",2024-03-20,Preparando
+CL1076,Camila Mejía,cliente7671@gmail.com,78036041,PED7130,2025-01-30,2112.49,Entregado,ENV8078,"Calle El Mirador, La Libertad",2024-12-24,En Ruta
+CL1076,Camila Mejía,cliente7671@gmail.com,78036041,PED7135,2025-02-09,24.51,Enviado,ENV8101,"Boulevard Constitución, San Salvador",2024-06-23,En Ruta
+CL1049,Ana Gómez,cliente4947@outlook.com,73596541,PED7136,2024-09-21,2251.4,Cancelado,ENV8125,"Calle El Mirador, San Salvador",2024-10-07,Devuelto
+CL1083,Marta Mendoza,cliente8321@correo.sv,76069668,PED7137,2024-07-21,1778.46,Preparacion,ENV8022,"Col. Escalón, La Libertad",2024-07-07,En Ruta
+CL1083,Marta Mendoza,cliente8321@correo.sv,76069668,PED7137,2024-07-21,1778.46,Preparacion,ENV8022,"Col. Escalón, La Libertad",2024-07-07,En Ruta
+CL1007,Marta Hernández,cliente735@empresa.com,72952127,PED7138,2024-05-05,1329.11,Pendiente,ENV8139,"Pje. Las Flores, Usulután",2024-10-20,Devuelto
+CL1131,Diego Morales,cliente13125@gmail.com,73120416,PED7139,2024-07-07,149.44,Preparacion,ENV8082,"Calle El Mirador, Sonsonate",2025-02-03,Preparando
+CL1069,Carmen Hernández,cliente6987@empresa.com,73102129,PED7140,2025-03-11,1060.79,Cancelado,ENV8051,"Col. Escalón, San Salvador",2024-08-17,Devuelto
+CL1123,Ricardo Reyes,cliente12364@correo.sv,74254075,PED7142,2025-04-13,441.29,Preparacion,ENV8095,"Boulevard Constitución, San Miguel",2024-08-17,Preparando
+CL1123,Ricardo Reyes,cliente12364@correo.sv,74254075,PED7142,2025-04-13,441.29,Preparacion,ENV8130,"Calle El Mirador, Santa Ana",2025-02-26,Devuelto
+CL1023,Daniela Gómez,cliente2310@empresa.com,78553267,PED7143,2024-08-26,403.13,Entregado,ENV8168,"Pje. Las Flores, San Miguel",2024-04-15,Devuelto
+CL1019,Lucía López,cliente1930@empresa.com,72736390,PED7144,2025-03-16,445.35,Cancelado,ENV8108,"Boulevard Constitución, San Miguel",2024-02-02,En Ruta
+CL1046,Lucía Romero,cliente4690@empresa.com,78965446,PED7148,2024-08-11,2366.49,Cancelado,ENV8196,"Av. Roosevelt, Usulután",2024-06-14,Devuelto
+CL1004,Elena Morales,cliente426@correo.sv,78399637,PED7149,2024-09-05,560.36,Cancelado,ENV8015,"Pje. Las Flores, Santa Ana",2024-01-28,Entregado
+CL1098,Paola Pérez,cliente9823@correo.sv,72726981,PED7153,2025-01-28,1494.29,Cancelado,ENV8007,"Calle Principal, Usulután",2024-09-07,Devuelto
+CL1101,Luis Mendoza,cliente10178@outlook.com,71683242,PED7157,2024-02-21,1077.89,Cancelado,ENV8208,"Col. Escalón, Usulután",2024-12-21,Preparando
+CL1000,Paola Mendoza,cliente061@empresa.com,73372703,PED7159,2024-08-30,2319.85,Entregado,ENV8038,"Pje. Las Flores, La Libertad",2025-04-30,En Ruta
+CL1000,Paola Mendoza,cliente061@empresa.com,73372703,PED7159,2024-08-30,2319.85,Entregado,ENV8200,"Boulevard Constitución, Santa Ana",2024-06-12,Devuelto
+CL1122,José Santos,cliente12290@gmail.com,79669302,PED7162,2024-09-24,1365.36,Pendiente,ENV8172,"Boulevard Constitución, Usulután",2025-05-22,Preparando
+CL1083,Marta Mendoza,cliente8321@correo.sv,76069668,PED7166,2025-01-02,1794.73,Preparacion,ENV8098,"Col. Escalón, San Miguel",2024-10-01,Preparando
+CL1083,Marta Mendoza,cliente8321@correo.sv,76069668,PED7166,2025-01-02,1794.73,Preparacion,ENV8122,"Av. Roosevelt, Santa Ana",2024-09-30,Entregado
+CL1083,Marta Mendoza,cliente8321@correo.sv,76069668,PED7166,2025-01-02,1794.73,Preparacion,ENV8145,"Pje. Las Flores, San Salvador",2025-01-01,Entregado
+CL1083,Marta Mendoza,cliente8321@correo.sv,76069668,PED7166,2025-01-02,1794.73,Preparacion,ENV8098,"Col. Escalón, San Miguel",2024-10-01,Preparando
+CL1083,Marta Mendoza,cliente8321@correo.sv,76069668,PED7166,2025-01-02,1794.73,Preparacion,ENV8122,"Av. Roosevelt, Santa Ana",2024-09-30,Entregado
+CL1083,Marta Mendoza,cliente8321@correo.sv,76069668,PED7166,2025-01-02,1794.73,Preparacion,ENV8145,"Pje. Las Flores, San Salvador",2025-01-01,Entregado
+CL1065,Jorge Flores,cliente6549@outlook.com,74058523,PED7169,2025-04-14,2498.02,Entregado,ENV8006,"Av. Roosevelt, San Salvador",2024-04-04,Devuelto
+CL1065,Jorge Flores,cliente6549@outlook.com,74058523,PED7169,2025-04-14,2498.02,Entregado,ENV8006,"Av. Roosevelt, San Salvador",2024-04-04,Devuelto
+CL1036,Carlos Gómez,cliente3665@correo.sv,77239477,PED7170,2024-10-08,732.2,Pendiente,ENV8181,"Pje. Las Flores, Santa Ana",2024-05-29,Preparando
+CL1130,Valeria Guerrero,cliente13020@outlook.com,76381255,PED7171,2025-01-06,1131.72,Pendiente,ENV8177,"Pje. Las Flores, La Libertad",2024-05-09,Entregado
+CL1130,Valeria Guerrero,cliente13020@outlook.com,76381255,PED7171,2025-01-06,1131.72,Pendiente,ENV8193,"Calle Principal, San Miguel",2024-09-03,Entregado
+CL1060,Luis Romero,cliente6060@empresa.com,75354039,PED7172,2024-12-05,1363.92,Cancelado,ENV8166,"Col. Escalón, Usulután",2025-05-17,Devuelto
+CL1124,José Guerrero,cliente12430@outlook.com,76021634,PED7173,2024-04-14,393.85,Enviado,ENV8205,"Boulevard Constitución, San Salvador",2024-08-30,Entregado
+CL1139,Paola Santos,cliente13982@gmail.com,78348820,PED7174,2025-05-07,1210.23,Enviado,ENV8140,"Av. Roosevelt, Usulután",2024-02-04,Preparando
+CL1139,Paola Santos,cliente13982@gmail.com,78348820,PED7174,2025-05-07,1210.23,Enviado,ENV8140,"Av. Roosevelt, Usulután",2024-02-04,Preparando
+CL1136,María Martínez,cliente13642@gmail.com,74902768,PED7181,2024-12-23,2149.23,Pendiente,ENV8025,"Col. Escalón, Usulután",2024-10-28,Devuelto
+CL1136,María Martínez,cliente13642@gmail.com,74902768,PED7181,2024-12-23,2149.23,Pendiente,ENV8144,"Av. Roosevelt, San Salvador",2025-01-11,Devuelto
+CL1036,Carlos Gómez,cliente3665@correo.sv,77239477,PED7184,2024-10-17,995.98,Preparacion,ENV8024,"Calle El Mirador, La Libertad",2024-07-25,Entregado
+CL1095,Ana Mendoza,cliente9513@outlook.com,78789724,PED7186,2024-11-14,2154.3,Preparacion,ENV8003,"Av. Roosevelt, San Miguel",2024-07-03,En Ruta
+CL1095,Ana Mendoza,cliente9513@outlook.com,78789724,PED7186,2024-11-14,2154.3,Preparacion,ENV8112,"Calle Principal, Usulután",2024-03-30,Devuelto
+CL1137,Elena Mendoza,cliente13756@empresa.com,77119806,PED7187,2025-03-21,664.63,Cancelado,ENV8048,"Col. Escalón, Santa Ana",2024-02-08,Devuelto
+CL1076,Camila Mejía,cliente7671@gmail.com,78036041,PED7188,2024-10-23,765.98,Pendiente,ENV8100,"Av. Roosevelt, La Libertad",2024-11-13,Entregado
+CL1130,Valeria Guerrero,cliente13020@outlook.com,76381255,PED7193,2024-05-12,463.43,Preparacion,ENV8120,"Av. Roosevelt, Santa Ana",2024-05-12,Entregado
+CL1073,Luis Ramírez,cliente7390@correo.sv,78959321,PED7196,2025-04-25,1989.34,Pendiente,ENV8019,"Boulevard Constitución, Sonsonate",2024-12-19,Preparando
+CL1073,Luis Ramírez,cliente7390@correo.sv,78959321,PED7196,2025-04-25,1989.34,Pendiente,ENV8192,"Boulevard Constitución, San Salvador",2024-06-29,Devuelto
+CL1046,Lucía Romero,cliente4690@empresa.com,78965446,PED7197,2025-03-18,2384.09,Preparacion,ENV8028,"Boulevard Constitución, Sonsonate",2024-01-22,En Ruta
+CL1046,Lucía Romero,cliente4690@empresa.com,78965446,PED7197,2025-03-18,2384.09,Preparacion,ENV8097,"Col. Escalón, Sonsonate",2025-01-11,Entregado
+CL1049,Ana Gómez,cliente4947@outlook.com,73596541,PED7201,2024-02-16,1100.68,Cancelado,ENV8110,"Col. Escalón, Sonsonate",2024-03-04,Preparando
+CL1029,Carlos Mejía,cliente2925@gmail.com,74010475,PED7202,2024-05-20,663.88,Entregado,ENV8071,"Boulevard Constitución, San Miguel",2024-09-25,Preparando
+CL1029,Carlos Mejía,cliente2925@gmail.com,74010475,PED7202,2024-05-20,663.88,Entregado,ENV8102,"Calle El Mirador, Usulután",2025-05-05,Devuelto
+CL1038,Fernando Rivas,cliente3848@empresa.com,73700897,PED7203,2025-03-11,881.77,Entregado,ENV8066,"Calle El Mirador, San Miguel",2024-10-22,Entregado
+CL1038,Fernando Rivas,cliente3848@empresa.com,73700897,PED7203,2025-03-11,881.77,Entregado,ENV8119,"Calle El Mirador, La Libertad",2024-02-17,Preparando
+CL1125,Andrés López,cliente12580@correo.sv,75691576,PED7204,2024-09-13,2011.36,Enviado,ENV8023,"Boulevard Constitución, San Salvador",2024-06-28,Preparando
+CL1112,Camila Morales,cliente11273@outlook.com,79330666,PED7206,2024-05-14,1765.7,Entregado,ENV8088,"Col. Escalón, San Salvador",2025-01-08,Devuelto
+CL1089,Ana Pérez,cliente8999@outlook.com,78671833,PED7207,2024-07-29,322.24,Pendiente,ENV8008,"Calle Principal, San Salvador",2025-04-23,En Ruta
+CL1082,Sofía Pérez,cliente8254@outlook.com,78351095,PED7208,2024-12-06,720.8,Cancelado,ENV8052,"Boulevard Constitución, San Miguel",2024-08-01,Devuelto
+CL1082,Sofía Pérez,cliente8254@outlook.com,78351095,PED7208,2024-12-06,720.8,Cancelado,ENV8178,"Calle El Mirador, Sonsonate",2024-07-02,Devuelto
+CL1115,Pedro Guerrero,cliente11565@outlook.com,76440685,PED7210,2025-02-14,1139.53,Entregado,ENV8050,"Boulevard Constitución, Usulután",2025-04-11,Entregado
+CL1115,Pedro Guerrero,cliente11565@outlook.com,76440685,PED7210,2025-02-14,1139.53,Entregado,ENV8185,"Boulevard Constitución, San Salvador",2025-01-01,Devuelto
+CL1057,Marta Rivera,cliente5726@correo.sv,71908598,PED7212,2024-08-25,60.5,Enviado,ENV8149,"Col. Escalón, San Miguel",2024-02-19,Entregado
+CL1057,Marta Rivera,cliente5726@correo.sv,71908598,PED7212,2024-08-25,60.5,Enviado,ENV8151,"Pje. Las Flores, Sonsonate",2024-07-03,Preparando
+CL1096,Marta Cruz,cliente966@empresa.com,78181018,PED7215,2024-03-05,161.32,Enviado,ENV8075,"Boulevard Constitución, Santa Ana",2024-12-02,Entregado
+CL1072,Ana Flores,cliente7267@outlook.com,77732877,PED7216,2024-08-25,301.48,Pendiente,ENV8090,"Av. Roosevelt, Usulután",2024-02-27,Devuelto
+CL1065,Jorge Flores,cliente6549@outlook.com,74058523,PED7217,2024-12-08,930.4,Pendiente,ENV8162,"Av. Roosevelt, La Libertad",2024-12-24,Entregado
+CL1065,Jorge Flores,cliente6549@outlook.com,74058523,PED7217,2024-12-08,930.4,Pendiente,ENV8162,"Av. Roosevelt, La Libertad",2024-12-24,Entregado
+CL1123,Ricardo Reyes,cliente12364@correo.sv,74254075,PED7218,2024-03-11,2361.98,Cancelado,ENV8141,"Calle Principal, La Libertad",2024-07-23,En Ruta
+CL1097,Elena Rivera,cliente9728@gmail.com,74843131,PED7221,2025-04-12,2026.06,Entregado,ENV8157,"Boulevard Constitución, Sonsonate",2025-04-30,En Ruta
+CL1118,Andrés Ramírez,cliente11830@correo.sv,79663416,PED7225,2024-11-11,459.9,Cancelado,ENV8167,"Col. Escalón, Sonsonate",2024-02-29,Entregado
+CL1118,Andrés Ramírez,cliente11830@correo.sv,79663416,PED7225,2024-11-11,459.9,Cancelado,ENV8176,"Calle Principal, San Miguel",2024-05-02,En Ruta
+CL1119,Elena Martínez,cliente11996@gmail.com,74582467,PED7228,2025-01-14,1464.83,Pendiente,ENV8027,"Calle Principal, La Libertad",2025-05-28,En Ruta
+CL1058,Carmen Romero,cliente5862@empresa.com,74983480,PED7229,2024-10-14,2220.16,Preparacion,ENV8147,"Boulevard Constitución, Sonsonate",2024-11-29,Entregado
