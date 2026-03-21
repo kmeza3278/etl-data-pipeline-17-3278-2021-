@@ -1,0 +1,21 @@
+id_cliente,cliente,correo,telefono,motivo_rechazo
+CL1005,Ana Mendoza,cliente555gmail.com,78847864,correo_invalido
+CL1006,Andrés López,cliente645@outlook.com,,telefono_vacio
+CL1010,Fernando Gómez,,76885202,correo_vacio
+CL1012,Carmen Rivas,cliente1272@outlook.com,,telefono_vacio
+CL1014,Carmen Mendoza,cliente1477correo.sv,77013173,correo_invalido
+CL1027,Elena Ramírez,,73992809,correo_vacio
+CL1034,Marta Cruz,cliente3454@gmail.com,,telefono_vacio
+CL1043,Ana Romero,cliente4365empresa.com,78261516,correo_invalido
+CL1050,Jorge Rivas,cliente5069gmail.com,76769487,correo_invalido
+CL1051,Lucía Pérez,cliente5179correo.sv,78462628,correo_invalido
+CL1062,José Martínez,cliente6211correo.sv,75544360,correo_invalido
+CL1077,Diego Morales,,75356137,correo_vacio
+CL1079,Valeria Gómez,cliente7922empresa.com,73266981,correo_invalido
+CL1084,Andrés Romero,,,"correo_vacio,telefono_vacio"
+CL1086,Valeria Torres,cliente8638outlook.com,73817539,correo_invalido
+CL1094,Paola Guerrero,,73486962,correo_vacio
+CL1100,Carmen Torres,,79293388,correo_vacio
+CL1105,José Gómez,,74726461,correo_vacio
+CL1113,Pedro Mejía,correo_invalido,75883188,correo_invalido
+CL1005,Ana Mendoza,cliente555gmail.com,78847864,correo_invalido

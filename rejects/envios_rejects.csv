@@ -1,0 +1,26 @@
+id_envio,id_pedido,direccion,fecha_envio,estado_envio,motivo_rechazo
+ENV8017,PED7073,"Calle El Mirador, Santa Ana",,En Ruta,fecha_envio_invalida
+ENV8045,PED7205,"Col. Escalón, Sonsonate",,Entregado,fecha_envio_invalida
+ENV8055,PED7173,"Pje. Las Flores, Sonsonate",,Entregado,fecha_envio_invalida
+ENV8056,,"Boulevard Constitución, Sonsonate",2024-12-22,Devuelto,id_pedido_vacio
+ENV8058,PED7183,"Pje. Las Flores, San Salvador",,En Ruta,fecha_envio_invalida
+ENV8061,PED7205,"Av. Roosevelt, San Salvador",,En Ruta,fecha_envio_invalida
+ENV8067,PED7089,"Pje. Las Flores, Santa Ana",,En Ruta,fecha_envio_invalida
+ENV8074,PED7165,"Col. Escalón, La Libertad",,Preparando,fecha_envio_invalida
+ENV8083,PED7176,"Col. Escalón, San Salvador",,Preparando,fecha_envio_invalida
+ENV8084,PED7131,"Calle El Mirador, Santa Ana",,En Ruta,fecha_envio_invalida
+ENV8104,PED7144,"Calle El Mirador, San Miguel",,En Ruta,fecha_envio_invalida
+ENV8109,,"Calle El Mirador, La Libertad",2024-03-08,Devuelto,id_pedido_vacio
+ENV8111,PED7145,"Boulevard Constitución, Sonsonate",,Devuelto,fecha_envio_invalida
+ENV8114,PED7214,"Boulevard Constitución, San Miguel",,En Ruta,fecha_envio_invalida
+ENV8117,,"Pje. Las Flores, San Miguel",2025-06-06,Preparando,id_pedido_vacio
+ENV8124,,"Pje. Las Flores, La Libertad",2025-03-03,Preparando,id_pedido_vacio
+ENV8126,,"Pje. Las Flores, Santa Ana",2024-07-05,En Ruta,id_pedido_vacio
+ENV8148,,"Calle Principal, Usulután",2025-01-09,Preparando,id_pedido_vacio
+ENV8152,PED7176,"Calle Principal, San Miguel",,En Ruta,fecha_envio_invalida
+ENV8153,PED7096,"Pje. Las Flores, La Libertad",,Preparando,fecha_envio_invalida
+ENV8163,PED7098,"Pje. Las Flores, Usulután",,Entregado,fecha_envio_invalida
+ENV8165,PED7057,"Calle Principal, Santa Ana",,Entregado,fecha_envio_invalida
+ENV8170,PED7207,"Col. Escalón, Sonsonate",,Entregado,fecha_envio_invalida
+ENV8189,,"Calle El Mirador, Sonsonate",,Entregado,"id_pedido_vacio,fecha_envio_invalida"
+ENV8194,,"Calle El Mirador, La Libertad",2024-03-04,Entregado,id_pedido_vacio
